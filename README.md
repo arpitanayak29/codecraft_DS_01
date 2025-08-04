@@ -1,6 +1,4 @@
 # codecraft_DS_01
-# CODECRAFT_DS_01
-# CODECRAFT_DS_01
 📌 Problem Statement
 In today’s world of data-driven decision-making, understanding global population trends is critical for governments, organizations, and policy-makers. The goal of this project is to analyze the population data of countries across the globe, identify the top 10 most populous nations, and understand the overall distribution of population in the year 2022.
 
